@@ -1,5 +1,5 @@
 # EV-Planner
-EV-Planner is a tool to place EV charging stations. Here is a one minute elevator pitch: https://youtu.be/Hq33CfAVbVw
+EV-Planner is a tool to place EV charging stations using unsupervised machine learning. Here is a one minute elevator pitch: https://youtu.be/Hq33CfAVbVw
 
 The EV-Planner framework consists of three main steps:
 - Creating a clustering instance, including pre-processing geospatial data such as EV density

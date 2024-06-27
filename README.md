@@ -11,7 +11,7 @@ The EV-Planner framework consists of three main steps:
 The Python code for all of these steps is included in this repository, and depends on the following libraries/modules: pandas, numpy, pickle, sklearn, geopandas, gzip, shutil k_means_constrained, random, osrm, math, itertools, csv, os, json, and time.
 
 Results can be visualized using an app for mobile devices
-This app was written using the Expo Go framework. The app lets you can select a state, clustering algorithm, and the number of stations to place. This will open a map that will show the suggested stations in red and the existing stations in blue. The code for the app is also in the repository (EV_Planner_app.js).
+This app was written using the Expo Go framework. The app lets you can select a state, clustering algorithm, and the number of stations to place. This will open a map that will show the suggested stations in red and the existing stations in blue. The code for the app is also in the repository (EV_Planner_App.js).
 
 Here is an example the output of EV-Planner for Indiana, with suggested stations in red and existing station in blue (equal number of red and blue):
 
